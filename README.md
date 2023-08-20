@@ -17,7 +17,9 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 ## 🚀 Projects
 
 ### Partylytical (work in progress)
-![brief gif showcasing Partylytical's gameplay](https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif)
+<div align="center">
+    <img src="[URL_TO_THE_GIF](https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif)" height="500">
+</div>
 - Partylytical: The mobile game that turns any gathering into a riot of laughter and cunning deception. Fool your friends, make jokes, and revel in uproarious fun!
 - GitHub Repo: **Private**
 - Technologies: React Native, Expo, Firebase
