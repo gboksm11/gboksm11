@@ -11,7 +11,7 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 ## 🛠️ Skills
 
 - Languages: HTML/CSS/JS, Python, Java, C/C++, R, Verilog
-- Frameworks: React, React Native, Node.js, Flask
+- Frameworks: React, React Native, Node.js, ElectronJS, Flask
 - Cloud and Database Technologies: Firebase, AWS, MongoDB, SQL
 
 ## 🚀 Projects
