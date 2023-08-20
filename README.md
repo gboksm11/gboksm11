@@ -37,7 +37,7 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 - Hardware: STM32 Discovery Microcontroller, Raspberry Pi 4B, Huskylens
 
   
-  <div align="center" style="margin-top: 15px; margin-bottom: 15px;">
+  <div align="center" style="margin: 15">
     <img src="https://github.com/gboksm11/gboksm11/blob/main/see-banner.jpg" height="500" width="750">
   </div>
 
