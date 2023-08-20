@@ -23,7 +23,7 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 - Technologies: React Native, Expo, Firebase
 - We are currently working hard on releasing the game by the end of the year, with multiple game modes for you to try. Stay Tuned!
 
-  <div align="center">
+  <div align="center" marginTop="10px" marginBottom="10px">
     <img src="https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif" height="500">
   </div>
 
