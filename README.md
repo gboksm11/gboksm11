@@ -34,6 +34,10 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 - Technologies: React, Node.js, WebRTC, Python, YOLOv5
 - Hardware: STM32 Discovery Microcontroller, Raspberry Pi 4B, Huskylens
 
+  <div align="center" marginTop="10px" marginBottom="10px" href="https://gboksm11.github.io/SEE-Info/">
+    <img src="https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif" height="500" width="700">
+  </div>
+
 ## 🌐 Connect with Me
 Let's connect on LinkedIn! Find me [here](https://www.linkedin.com/in/ghaith-boksmati/).
 
