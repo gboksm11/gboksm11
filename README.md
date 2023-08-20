@@ -23,8 +23,8 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 - Technologies: React Native, Expo, Firebase
 - We are currently working hard on releasing the game by the end of the year, with multiple game modes for you to try. Stay Tuned!
 
-  <div align="center" marginTop="10px" marginBottom="10px">
-    <img src="https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif" height="500">
+  <div align="center" marginTop="10" marginBottom="10">
+    <img src="https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif" height="500" borderRadius="20">
   </div>
 
 ### S.E.E
@@ -35,7 +35,7 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 - Hardware: STM32 Discovery Microcontroller, Raspberry Pi 4B, Huskylens
 
   <div align="center" marginTop="10px" marginBottom="10px" href="https://gboksm11.github.io/SEE-Info/">
-    <img src="https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif" height="500" width="700">
+    <img src="https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif" height="500" width="750" borderRadius="20" marginTop="10" marginBottom="10">
   </div>
 
 ## 🌐 Connect with Me
