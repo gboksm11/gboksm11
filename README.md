@@ -24,7 +24,7 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 - We are currently working hard on releasing the game by the end of the year, with multiple game modes for you to try. Stay Tuned!
   
 
-  <div align="center" marginTop="10" marginBottom="10">
+  <div align="center" style="margin-top: 15px; margin-bottom: 15px;">
     <img src="https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif" height="500" borderRadius="20">
   </div>
 
@@ -37,8 +37,8 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 - Hardware: STM32 Discovery Microcontroller, Raspberry Pi 4B, Huskylens
 
   
-  <div align="center" marginTop="10px" marginBottom="10px" href="https://gboksm11.github.io/SEE-Info/">
-    <img src="https://github.com/gboksm11/gboksm11/blob/main/see-banner.jpg" height="500" width="750" borderRadius="20" marginTop="10" marginBottom="10">
+  <div align="center" style="margin-top: 15px; margin-bottom: 15px;">
+    <img src="https://github.com/gboksm11/gboksm11/blob/main/see-banner.jpg" height="500" width="750">
   </div>
 
   
