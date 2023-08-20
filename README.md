@@ -35,7 +35,6 @@ Let's connect on LinkedIn! Find me [here](https://www.linkedin.com/in/ghaith-bok
 
 
 ## 📊 GitHub Stats
-![Ghaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=gboksm11&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
  🎉 **Thanks for stopping by!**
