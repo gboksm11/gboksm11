@@ -22,11 +22,13 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 - GitHub Repo: **Private**
 - Technologies: React Native, Expo, Firebase
 - We are currently working hard on releasing the game by the end of the year, with multiple game modes for you to try. Stay Tuned!
+  
 
   <div align="center" marginTop="10" marginBottom="10">
     <img src="https://github.com/gboksm11/gboksm11/blob/main/partylytical-gameplay.gif" height="500" borderRadius="20">
   </div>
 
+  
 ### S.E.E
 
 - SEE (Sensory Enhancing Eyewear): AI-powered glasses designed for the blind. These glasses combine advanced object recognition, facial recognition, and ultrasonic sensor technology to provide a revolutionary way for the blind to perceive their surroundings. Check it out [here](https://gboksm11.github.io/SEE-Info/).
@@ -34,15 +36,17 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 - Technologies: React, Node.js, WebRTC, Python, YOLOv5
 - Hardware: STM32 Discovery Microcontroller, Raspberry Pi 4B, Huskylens
 
+  
   <div align="center" marginTop="10px" marginBottom="10px" href="https://gboksm11.github.io/SEE-Info/">
-    <img src="https://github.com/gboksm11/gboksm11/blob/main/web-app.PNG" height="500" width="750" borderRadius="20" marginTop="10" marginBottom="10">
+    <img src="https://github.com/gboksm11/gboksm11/blob/main/see-banner.jpg" height="500" width="750" borderRadius="20" marginTop="10" marginBottom="10">
   </div>
 
+  
 ## 🌐 Connect with Me
 Let's connect on LinkedIn! Find me [here](https://www.linkedin.com/in/ghaith-boksmati/).
 
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gboksm11&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
  🎉 **Thanks for stopping by!**
