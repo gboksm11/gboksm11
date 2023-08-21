@@ -31,7 +31,7 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
   
 ### S.E.E
 
-- SEE (Sensory Enhancing Eyewear): AI-powered glasses designed for the blind. These glasses combine advanced object recognition, facial recognition, and ultrasonic sensor technology to provide a revolutionary way for the blind to perceive their surroundings. Check it out [here](https://gboksm11.github.io/SEE-Info/).
+- SEE (Sensory Enhancing Eyewear): AI-powered glasses designed for the visually impaired. These glasses combine advanced object recognition, facial recognition, and ultrasonic sensor technology to provide a revolutionary way to perceive surroundings. Check it out [here](https://gboksm11.github.io/SEE-Info/).
 - GitHub Repos: [SEE Backend](https://github.com/gboksm11/SEE-Backend) | [SEE Web App](https://github.com/varunven/see-face-recognition) | [SEE glasses software](https://github.com/varunven/EE475Capstone)
 - Technologies: React, Node.js, WebRTC, Python, YOLOv5
 - Hardware: STM32 Discovery Microcontroller, Raspberry Pi 4B, Huskylens
