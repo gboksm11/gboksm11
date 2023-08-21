@@ -38,7 +38,7 @@ I am a Computer Engineering graduate from the University of Washington, Seattle.
 
   
   <div align="center" style="margin: 15">
-    <img src="https://github.com/gboksm11/gboksm11/blob/main/see-banner.jpg" height="500" width="750">
+    <img src="https://github.com/gboksm11/gboksm11/blob/main/see-banner.jpg" width="750">
   </div>
 
   
